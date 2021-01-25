@@ -11,8 +11,6 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kinoeater&color=red" alt="mustafayol :: Profile Stats"></a>
-<a href="https://www.linkedin.com/in/mustafa-yol-65a4b4132/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mustafa-yol-purple?style=flat&logo=linkedin"></a>
 <a href="mailto:mustafayol@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-mustafayol@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
